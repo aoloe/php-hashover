@@ -1,6 +1,6 @@
 # Hashover
 
-My personal fork of [Hashover](http://tildehash.com/?page=hashover).
+My personal "fork" of [Hashover](http://tildehash.com/?page=hashover).
 
 Just a bookmark, because I don't want to forget about it...
 
@@ -10,4 +10,9 @@ HashOver is a self-hosted system and allows completely anonymous comments to be 
 
 HashOver is free and open source software under the GNU Affero General Public License
 
-It's home is here: <http://tildehash.com/?page=hashover><
+It's home is here: <http://tildehash.com/?page=hashover>
+
+p.s.: after having created this "fork" i've discovered that jacobwb is now on github, even if i could not find a link on his website:
+
+- <https://github.com/jacobwb/hashover>
+- <https://github.com/jacobwb/hashover-next>
