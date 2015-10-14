@@ -1,6 +1,6 @@
 # Hashover
 
-My personal fork of Hashover.
+My personal fork of [Hashover](http://tildehash.com/?page=hashover).
 
 Just a bookmark because I don't want to forget about it...
 
